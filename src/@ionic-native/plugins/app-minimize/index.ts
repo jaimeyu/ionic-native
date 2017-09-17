@@ -8,7 +8,7 @@ import { Injectable } from '@angular/core';
  *
  * @usage
  * ```typescript
- * import { Platfrom } from 'ionic-angular';
+ * import { Platform } from 'ionic-angular';
  * import { AppMinimize } from '@ionic-native/app-minimize';
  *
  *
